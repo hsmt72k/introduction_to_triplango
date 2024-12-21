@@ -119,13 +119,13 @@ triplango
 
 #### 旅行計画を生成する
 
-<!-- ./movies/triplango_my_trips.mp4 -->
-<video src="https://github.com/user-attachments/assets/afa89cf2-cc2d-4933-8c90-a8106b140ba6" controls="true"></video>
+<!-- ./movies/triplango_create_trip.mp4 -->
+<video src="https://github.com/user-attachments/assets/22356df3-e7ff-4667-af96-0820cd24190f" controls="true"></video>
 
 #### 保存済みの旅行計画を見る
 
 <!-- ./movies/triplango_my_trips.mp4 -->
-<video src="https://github.com/user-attachments/assets/afa89cf2-cc2d-4933-8c90-a8106b140ba6" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/7be9ded2-7946-47e7-94aa-07f3b9d5118c" controls="true"></video>
 
 ## <a name="outro">🤸 おわりに</a>
 
